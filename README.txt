@@ -1,3 +1,2 @@
-only read if ur bored
-The home of my IDS (independent study) project. Started September 2023, uses nodejs (for localhost) and a Phaser script tag.
-This is my first JS project...
+The home of my IDS (independent study) project. Started September 2023, used nodejs (for localhost) + a Phaser script tag.
+This is my first JS project lol
